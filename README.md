@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinkorde
-- 👀 I’m interested in Web Development and Gaming
-- 🌱 I’m currently learning Cyber Securities interested in web penetration testing
+- 👀 I’m interested in Gaming and Game Development
+- professional Game developer Unity
 - 💞️ I’m looking to collaborate on Gaming
 - 📫 How to reach me -> sachinkorde1993@gmail.com
 
